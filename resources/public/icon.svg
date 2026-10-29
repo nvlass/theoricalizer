@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="104" fill="#17171c"/>
+  <g stroke="#8a8a93" stroke-width="7">
+    <line x1="56" y1="150" x2="456" y2="150"/><line x1="56" y1="190" x2="456" y2="190"/><line x1="56" y1="230" x2="456" y2="230"/>
+    <line x1="56" y1="270" x2="456" y2="270"/><line x1="56" y1="310" x2="456" y2="310"/>
+    <line x1="120" y1="350" x2="210" y2="350"/>
+  </g>
+  <g fill="none" stroke="#8b7cf6" stroke-width="14">
+    <ellipse cx="165" cy="350" rx="34" ry="22"/>
+    <ellipse cx="345" cy="270" rx="34" ry="22"/>
+  </g>
+  <path d="M205 330 C 250 290, 290 285, 310 280" fill="none" stroke="#ececf1" stroke-width="7" stroke-dasharray="14 12"/>
+  <text x="256" y="455" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="64" fill="#ececf1">P5</text>
+</svg>
